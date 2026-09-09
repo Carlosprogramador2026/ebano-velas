@@ -1,0 +1,6 @@
+{
+  "name": "AGED EBONY COLLECTION",
+  "description": "Beauty That Transforms Spaces — Luxury handcrafted candle collection, olfactory pyramid, repurposing guide, and artisan ritual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
